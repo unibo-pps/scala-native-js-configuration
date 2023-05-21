@@ -9,5 +9,5 @@
  */
 
 @main def main(): Unit =
-  println("Wow!! I am in js runtime!!")
+  println("Wow!! I am in native runtime!!")
   println(s"Random number : ${math.random()}")
